@@ -1,0 +1,20 @@
+body {
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+
+table {
+    border-collapse: separate; /* Varmistaa, että border-spacing toimii */
+    border-spacing: 10px; /* Lisää väliä solujen välille */
+}
+
+td {
+    background-color: rgb(211, 160, 235);
+    color: rgb(182, 0, 100);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    width: 30px; 
+    height: 30px;
+    border-radius: 50%;
+}
+
